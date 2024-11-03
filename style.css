@@ -38,8 +38,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
  
-}
- .btn-toggle:focus-visible {
+.btn-toggle:focus-visible {
 	border: 1px solid #4c51f9;
 	outline: none;
 }
